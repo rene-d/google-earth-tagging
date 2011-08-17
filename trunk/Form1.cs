@@ -84,7 +84,7 @@ namespace GETagging
             }
 
 
-            // create a KML to display a crosshair at the center of GE screen
+            // create a KML to display the crosshairs at the center of GE screen
             string s = string.Format(@"<?xml version=""1.0"" encoding=""utf-8""?>
 <kml xmlns=""http://earth.google.com/kml/2.0"">
   <Folder>
