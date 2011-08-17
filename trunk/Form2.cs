@@ -208,10 +208,6 @@ namespace GETagging
 
             timer1.Interval = 1000;
             timer1.Start();
-
-            //Choisissez la position du site de plongée en positionnant le curseur en forme de croix à l'endroit voulu et cliquez sur le bouton "Géomarquer".
-            //Géomarquer
-            //Annuler
         }
 
         private void Form2_Load(object sender, EventArgs e)
